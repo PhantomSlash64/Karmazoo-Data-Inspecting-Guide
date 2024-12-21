@@ -19,5 +19,5 @@ This can also be used to find the last remaining secrets.
  This lets you listen to the game's Narrator clips and the sounds of everygame including the game's music
 ***You need to install [this component](https://www.foobar2000.org/components/view/foo_input_vgmstream) to the program to listen to the game's FSB Files!***
 
-## ! Fmod Bank Tools ([GameBanana Link](https://gamebanana.com/tools/13847))
+## ! [Fmod Bank Tools](https://gamebanana.com/tools/13847)
 Incase you want to potentially make any sound mods, This is for you! You can figure it out easily if you know where to look online but this should be familiar to people who have modded Pizza Tower or any game that used FSB bank files

@@ -8,6 +8,7 @@ If you do decide to mod the game (Any tool that has this at the beginning: !) Th
 The images in the game's install directory are unencrypted and can be easily accessible via opening the file below with the HyperRipper function
 >KarmaZoo\resources\cookedData\bigfile.bfdata
 Fun fact: EVERYTHING that was in the KarmaPass could've all been leaked because ***EVERY IMAGE UP TO THE LAST ONE WAS IN THE bigfile.bfdata*** But thankfully I was nice not to release everything that was not encrypted so you are welcome :) ~~Seriously though how was that not noticed day one?~~
+Also I might do some sprite sheets of the game so stay tuned!
 
 ## ! [HxD](https://mh-nexus.de/en/hxd/)
 This tool lets you see the Text/Dialogue in the game including game directories as well as functions. It is possible to edit the game text but unfortunately the game has to be in the same size.
